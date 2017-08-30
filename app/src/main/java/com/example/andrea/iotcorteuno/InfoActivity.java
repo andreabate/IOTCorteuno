@@ -33,6 +33,7 @@ public class InfoActivity extends AppCompatActivity {
         String direccion = getIntent().getStringExtra("Direccion");
         String correo = getIntent().getStringExtra("Email");
 
+
         nombresin.setText(nombre);
         apellidosin.setText(apellido);
         direccionin.setText(direccion);
