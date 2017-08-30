@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">IOTCorteuno</string>
+    <string name="Name_login">Nombres</string>
+    <string name="Lastname_login">Apellidos</string>
+    <string name="Address_login">Dirección</string>
+    <string name="Email_login">E-mail</string>
+    <string name="Enviar_login">ENVIAR</string>
+    <string name="Nombre_label">NOMBRES</string>
+    <string name="Apellido_label">APELLIDOS:</string>
+</resources>
